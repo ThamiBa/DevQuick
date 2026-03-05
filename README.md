@@ -20,7 +20,7 @@ Copyright (c) 2026 Thami Baladi
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/header.png" alt="DevQuick - AI & Full Stack" width="100%"/>
+  <img src="./assets/header.svg" alt="DevQuick - AI & Full Stack" width="100%"/>
   
   <br/>
   
@@ -28,20 +28,20 @@ Copyright (c) 2026 Thami Baladi
   <!-- 📊 PROFILE BADGES                                                           -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <a href="https://github.com/red1-for-hek">
-    <img src="https://komarev.com/ghpvc/?username=red1-for-hek&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+  <a href="https://github.com/ThamiBa">
+    <img src="https://komarev.com/ghpvc/?username=ThamiBa&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://github.com/red1-for-hek?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fred1-for-hek&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+  <a href="https://github.com/ThamiBa?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FThamiBa&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
   </a>
   &nbsp;
-  <a href="https://github.com/red1-for-hek?tab=followers">
-    <img src="https://img.shields.io/github/followers/red1-for-hek?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+  <a href="https://github.com/ThamiBa?tab=followers">
+    <img src="https://img.shields.io/github/followers/ThamiBa?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/red1-for-hek">
-    <img src="https://img.shields.io/github/stars/red1-for-hek?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+  <a href="https://github.com/ThamiBa">
+    <img src="https://img.shields.io/github/stars/ThamiBa?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
   </a>
   
 </div>
@@ -66,7 +66,7 @@ Copyright (c) 2026 Thami Baladi
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=About%20Me&fontSize=40&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=About%20Me&fontSize=40&theme=transparent" width="100%"/>
 
 <br/><br/>
 
@@ -131,7 +131,7 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Trophies&fontSize=40&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Trophies&fontSize=40&theme=transparent" width="100%"/>
 
 <br/><br/>
 
@@ -139,7 +139,7 @@ life_philosophy: "Automate the routine, engineer the future."
   
   <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=red1-for-hek&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
+    <img src="https://github-trophies.vercel.app/?username=ThamiBa&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
   </a>
   
 </div>
@@ -154,39 +154,39 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Stats%20%26%20Badges&fontSize=40&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Stats%20%26%20Badges&fontSize=40&theme=transparent" width="100%"/>
 
 <br/><br/>
 
 <div align="center">
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
-  <a href="https://github.com/red1-for-hek">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=red1-for-hek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <a href="https://github.com/ThamiBa">
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThamiBa&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   &nbsp;
-  <a href="https://github.com/red1-for-hek">
-    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=red1-for-hek&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <a href="https://github.com/ThamiBa">
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThamiBa&theme=transparent&hide_border=true" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
   
   <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
-  <a href="https://github.com/red1-for-hek">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=red1-for-hek&layout=normal&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
+  <a href="https://github.com/ThamiBa">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThamiBa&layout=normal&theme=transparent&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
   
   <br/><br/>
   
   <!-- Activity Graph -->
-  <a href="https://github.com/red1-for-hek">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=red1-for-hek&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+  <a href="https://github.com/ThamiBa">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamiBa&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
   </a>
   
   <br/><br/>
   
   <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=red1-for-hek&theme=tokyonight" width="95%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThamiBa&theme=transparent" width="95%" alt="Profile Details"/>
   
 </div>
 
@@ -200,13 +200,13 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=DevQuick%20Ecosystem&fontSize=40&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=DevQuick%20Ecosystem&fontSize=40&theme=transparent" width="100%"/>
 
 <br/><br/>
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=red1-for-hek&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=c9d1d9" width="95%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamiBa&theme=transparent&area=true&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=c9d1d9" width="95%" alt="Activity Graph"/>
   
   <br/>
   
@@ -224,7 +224,7 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- ⚡ TECH STACK                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Tech%20Stack&fontSize=40&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Tech%20Stack&fontSize=40&theme=transparent" width="100%"/>
 
 <br/><br/>
 
@@ -311,17 +311,17 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- 🌐 CONNECT WITH ME                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Connect%20With%20Me&fontSize=40&theme=tokyonight" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Connect%20With%20Me&fontSize=40&theme=transparent" width="100%"/>
 
 <br/><br/>
 
 <div align="center">
   
-<a href="https://github.com/red1-for-hek" target="_blank">
+<a href="https://github.com/ThamiBa" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/red1-for-hek" target="_blank">
+<a href="https://linkedin.com/in/ThamiBa" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -347,8 +347,8 @@ life_philosophy: "Automate the routine, engineer the future."
 
 <br/>
 
-<a href="https://github.com/red1-for-hek">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="60%"/>
+<a href="https://github.com/ThamiBa">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" width="60%"/>
 </a>
 
 </div>
@@ -361,7 +361,7 @@ life_philosophy: "Automate the routine, engineer the future."
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&theme=tokyonight" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&theme=transparent" width="100%"/>
   
   <br/>
   
