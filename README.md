@@ -20,7 +20,7 @@ Copyright (c) 2026 Thami Baladi
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/logo.png" alt="DevQuick - AI & Full Stack" width="100%"/>
+  <img src="./assets/Design.png" alt="DevQuick - AI & Full Stack" width="100%"/>
   
   <br/>
   
@@ -52,15 +52,7 @@ Copyright (c) 2026 Thami Baladi
 <!-- 🖥️ TERMINAL INTRO SECTION                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://readline.vercel.app/api/readme-typing?color=764ba2&size=22&center=true&vCenter=true&width=650&lines=Initializing+DevQuick...;Connecting+to+AI+Core...;Ready+to+Scale+Impact.;Automate+the+Routine+Engineer+the+Future." alt="Terminal Typewriter"/>
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=5&section=header" width="100%"/>
-
-<br/>
+<p align="left"><img width="100%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 👤 ABOUT ME SECTION                                                          -->
