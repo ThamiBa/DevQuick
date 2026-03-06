@@ -335,7 +335,7 @@ life_philosophy: "Automate the routine, engineer the future."
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/ThamiBa" target="_blank">
+<a href="https://linkedin.com/in/ThamiBaladi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
 </a>
 &nbsp;
@@ -343,11 +343,11 @@ life_philosophy: "Automate the routine, engineer the future."
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b26" alt="X"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/ThamiBaladi" target="_blank">
+<a href="https://instagram.com/thamibaladi?igsh=MTRxM3NpbnU4MzN1NA==" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram"/>
 </a>
 &nbsp;
-<a href="https://facebook.com/ThamiBaladi" target="_blank">
+<a href="https://facebook.com/share/18UicxfB36/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b26" alt="Facebook"/>
 </a>
 &nbsp;
