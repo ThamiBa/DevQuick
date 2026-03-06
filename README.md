@@ -60,6 +60,8 @@ Copyright (c) 2026 Thami Baladi
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=About%20Me&fontSize=40&theme=transparent" width="100%"/>
 
+<img src="./assets/section-about.svg" width="160"/>
+
 <br/><br/>
 
 <table>
@@ -124,6 +126,8 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Trophies&fontSize=40&theme=transparent" width="100%"/>
+
+<img src="./assets/section-trophy.svg" width="200"/>
 
 <br/><br/>
 
