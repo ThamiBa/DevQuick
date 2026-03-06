@@ -182,7 +182,7 @@ life_philosophy: "Automate the routine, engineer the future."
   <br/><br/>
   
   <!-- Additional Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThamiBa&theme=transparent" width="95%" alt="Profile Details"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThamiBa&theme=tokyonight" width="95%" alt="Profile Details"/>
   
 </div>
 
