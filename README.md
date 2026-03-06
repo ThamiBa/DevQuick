@@ -73,7 +73,7 @@ Copyright (c) 2026 Thami Baladi
 ```yaml
 name: Thami Baladi
 located_in: Morocco 🇲🇦
-current_status: Full-Stack & AI Engineer
+current_status: - AI Engineer - Python Engineer - CHATBOT - SaaS Builder  
 
 areas_of_expertise:
   - 🤖 AI & Computer Vision (SaaS)
