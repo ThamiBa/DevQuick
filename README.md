@@ -20,7 +20,7 @@ Copyright (c) 2026 Thami Baladi
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/Ge.png" alt="DevQuick - AI & Full Stack" width="80%"/>
+  <img src="./assets/readme.jpeg" alt="DevQuick - AI & Full Stack" width="80%"/>
   
   <br/>
   
