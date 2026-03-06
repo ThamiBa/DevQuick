@@ -225,40 +225,60 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- 💻 LANGUAGES -->
 <h4>💻 Languages</h4>
 <p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" title="Python"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" title="Bash"/></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /></a>
+  <a href="https://skillicons.dev" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" /></a>
 </p>
 
 <!-- 🤖 AI & MACHINE LEARNING -->
 <h4>🤖 AI & Machine Learning</h4>
 <p>
-  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" /></a>
+  <a href="https://github.com/ultralytics/ultralytics" target="_blank"><img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" /></a>
 </p>
 
 <!-- 🌐 WEB DEVELOPMENT -->
 <h4>🌐 Web Development</h4>
 <p>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS"/></a>
-  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" title="Three.js"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /></a>
+  <a href="https://threejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" /></a>
+</p>
+
+<!-- 🗄️ DATABASES -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
 </p>
 
 <!-- 🔧 TOOLS & PLATFORMS -->
 <h4>🔧 Tools & Platforms</h4>
 <p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" /></a>
   <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux"/></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
+  <a href="https://core.telegram.org/bots" target="_blank"><img src="https://skillicons.dev/icons?i=telegram&theme=dark" alt="Telegram Bot API" /></a>
 </p>
 
 </div>
@@ -316,7 +336,23 @@ life_philosophy: "Automate the routine, engineer the future."
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/ThamiBa" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/ThamiBa" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1b26" alt="X"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/ThamiBa" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b26" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="https://facebook.com/ThamiBa" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1b26" alt="Facebook"/>
+</a>
+&nbsp;
+<a href="https://wa.me/YOUR_NUMBER" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1a1b26" alt="WhatsApp"/>
 </a>
 &nbsp;
 <a href="mailto:redoyanul1234@gmail.com">
