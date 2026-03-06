@@ -146,7 +146,7 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Stats%20%26%20Badges&fontSize=40&theme=transparent" width="100%"/>
+<img src="./assets/section-stats.svg" width="220"/>
 
 <br/><br/>
 
@@ -314,6 +314,8 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Connect%20With%20Me&fontSize=40&theme=transparent" width="100%"/>
+
+<img src="./assets/section-connect.svg" width="180"/>
 
 <br/><br/>
 
