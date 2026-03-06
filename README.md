@@ -194,10 +194,18 @@ life_philosophy: "Automate the routine, engineer the future."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=DevQuick%20Ecosystem&fontSize=40&theme=transparent" width="100%"/>
 
+<img src="./assets/section-game.svg" width="280"/>
+
 <br/><br/>
 
+
 <div align="center">
-  
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
+      <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="95%"/>
+    </picture>
+    <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamiBa&theme=transparent&area=true&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=c9d1d9" width="95%" alt="Activity Graph"/>
   
   <br/>
@@ -217,6 +225,8 @@ life_philosophy: "Automate the routine, engineer the future."
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Tech%20Stack&fontSize=40&theme=transparent" width="100%"/>
+
+<img src="./assets/section-tech.svg" width="180"/>
 
 <br/><br/>
 
