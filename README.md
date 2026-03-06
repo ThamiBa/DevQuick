@@ -20,7 +20,7 @@ Copyright (c) 2026 Thami Baladi
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/readme.jpeg" alt="DevQuick - AI & Full Stack" width="80%"/>
+  <img src="./assets/readme0.jpeg" alt="DevQuick - AI & Full Stack" width="80%"/>
   
   <br/>
   
@@ -171,18 +171,13 @@ life_philosophy: "Automate the routine, engineer the future."
   <a href="https://github.com/ThamiBa">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThamiBa&layout=normal&theme=transparent&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=8&card_width=400" alt="Top Languages" />
   </a>
-  
   <br/><br/>
-  
   <!-- Activity Graph -->
   <a href="https://github.com/ThamiBa">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamiBa&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
   </a>
-  
-  <br/><br/>
-  
   <!-- Additional Stats Cards -->
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThamiBa&theme=tokyonight" width="95%" alt="Profile Details"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThamiBa&theme=tokyonight" width="95%" alt="Profile Details"/> 
   
 </div>
 
@@ -199,10 +194,7 @@ life_philosophy: "Automate the routine, engineer the future."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=DevQuick%20Ecosystem&fontSize=40&theme=transparent" width="100%"/>
 
 <img src="./assets/section-game.svg" width="280"/>
-
 <br/><br/>
-
-
 <div align="center">
   <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
@@ -210,16 +202,10 @@ life_philosophy: "Automate the routine, engineer the future."
       <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="95%"/>
     </picture>
     <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThamiBa&theme=transparent&area=true&hide_border=true&bg_color=0d1117&color=764ba2&line=667eea&point=c9d1d9" width="95%" alt="Activity Graph"/>
-  
   <br/>
-  
   <sub>👾 Real-time development velocity tracking</sub>
-  
 </div>
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=5&section=header" width="100%"/>
 
 <br/>
